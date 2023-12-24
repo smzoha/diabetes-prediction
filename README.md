@@ -40,7 +40,6 @@ on a slice of the dataset that is kept aside as testing data.
 #### Instructions:
 1. Install the dependencies using Pipenv (or Pip)
    1. In order to manually install the dependencies using Pip, the following command can be run:
-   
         `pip install numpy pandas matplotlib scikit-learn imblearn mrmr_selection`
 2. Run the files in the order mentioned above
 
